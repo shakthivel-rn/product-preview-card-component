@@ -38,6 +38,7 @@ p {
 
 .card-container {
     width: 21.43rem;
+    height: 38.18rem;
     background-color: var(--white);
     border-radius: 0.5rem;
 }
@@ -66,7 +67,7 @@ p {
     }
 
     .card-image {
-        flex: 1;
+        width: 50%;
         height: 100%;
         border-bottom-left-radius: 0.5rem;
         border-top-right-radius: 0;
@@ -74,7 +75,7 @@ p {
     }
 
     .card-content {
-        flex: 1;
+        width: 50%;
         padding: 2rem;
         row-gap: 1.5rem;
     }
