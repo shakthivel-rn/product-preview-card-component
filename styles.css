@@ -144,4 +144,9 @@ p {
     justify-content: center;
     align-items: center;
     column-gap: 0.5rem;
+    cursor: pointer;
+}
+
+.add-cart--button:active {
+    background-color: var(--deeper-aquamarine);
 }
