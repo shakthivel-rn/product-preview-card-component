@@ -147,6 +147,7 @@ p {
     cursor: pointer;
 }
 
+.add-cart--button:hover,
 .add-cart--button:active {
     background-color: var(--deeper-aquamarine);
 }
